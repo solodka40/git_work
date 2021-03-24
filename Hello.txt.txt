@@ -1,1 +1,2 @@
 Print ("I love you");
+Print ("vechnaya vesna");
